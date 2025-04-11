@@ -1,2 +1,2 @@
 # resume
-Rida Afreen's personal portfolio website showcasing her skills as a Software Developer. Built with HTML, CSS, and JavaScript, it features sections for About, Education, Projects, Achievements, and Contact. Includes responsive design, smooth scrolling, form validation, and animations.
+Rida Afreen's personal portfolio website showcasing her skills as a AI/ML Enthusiast. Built with HTML, CSS it features sections for About, Skills Projects and Contact. Includes responsive design, smooth scrolling, form validation.
